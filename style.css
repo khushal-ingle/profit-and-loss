@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
 :root {
-    --background-color: #28282B;
-    --font-color:  #FDFBF9;
+    --background-color: #FDFBF9;
+    --font-color: #28282B ;
 }
 
 * {
@@ -51,11 +51,11 @@ input {
 button {
     display: block;
     margin: 1rem auto;
+    padding: 0.5rem 2rem;
     font-size: larger;
     font-weight: bold;
     border-radius: 15px;
-    width: 11%;
-    padding: 0.5rem;
+    width: 16%;
     margin-top: 2rem;
     color: #28282B;
     background-color:#FDFBF9;
