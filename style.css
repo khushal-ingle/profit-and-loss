@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&display=swap');
+
 
 :root {
     --background-color: #FDFBF9;
@@ -12,7 +14,7 @@
 }
 
 body {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Mulish', sans-serif;
     background-color: var(--background-color);
     text-align: center;
 }
